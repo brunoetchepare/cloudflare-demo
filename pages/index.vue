@@ -3,7 +3,7 @@
     <div>
       <img class="mx-auto" src="~assets/cloudflare.svg" alt="Cloudflare Pages" width="350">
       <h1 class="title text-3xl mt-4">
-        Deploy your Jamstack Website with <a href="https://pages.cloudflare.com/"> Cloudflare Pages.</a>
+        Oi Buba! Deploy your Jamstack Website with <a href="https://pages.cloudflare.com/"> Cloudflare Pages.</a>
       </h1>
     </div>
     <div class="mt-8 text-lg">
